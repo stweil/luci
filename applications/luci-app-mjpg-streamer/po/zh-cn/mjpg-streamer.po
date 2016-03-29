@@ -40,10 +40,10 @@ msgstr "运行的命令"
 msgid "Device"
 msgstr "设备"
 
-msgid "Do not initalize dynctrls of Linux-UVC driver"
+msgid "Do not initialize dynctrls of Linux-UVC driver"
 msgstr "不要初始化Linux-UVC驱动的dynctrls"
 
-msgid "Don't initalize dynctrls"
+msgid "Don't initialize dynctrls"
 msgstr "不要初始化dynctrls"
 
 msgid "Drop frames smaller then this limit"
